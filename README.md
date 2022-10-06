@@ -22,3 +22,6 @@ React Native modules. This is a quick install ready-made Calendar module provide
 - The documentation is unfortuntalely very limited and the examples provided presented bugs. 
 - Overall it was great to see how powerful these open-source projects can be. 
 - The calendar module is great to keep in mind for future app projects that will require it. Like: booking sys or events & appointments app.
+
+![image](https://user-images.githubusercontent.com/4963988/194338950-5bdbd4fc-7b32-497c-aab5-85ab361c1d78.png)
+
