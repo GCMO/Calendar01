@@ -28,6 +28,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "build": { 
+      "babel": { 
+        "include": [ "@ui-kitten/components" ] 
+      }
     }
   }
 }
